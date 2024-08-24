@@ -1,0 +1,15 @@
+.navbar{
+    border-radius: 10px;
+    background-color: #7F9BC5;
+}
+
+.navbarLinks{
+    color: white;
+    font-size: 40px;
+}
+
+.profile{
+    width: 10px;
+    border-radius: 100%;
+    border: black 2px;
+}

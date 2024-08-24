@@ -1,5 +1,62 @@
-.background { background-color: #7f9bc5 }
-.fuente { color: #98b4d4 }
-.color3 { background-color: #b1cde2 }
-.color4 { background-color: #cae6f1 }
-.color5 { background-color: #e3ffff }
+/* color */
+
+.background {
+    background-color: #CAE6F1
+}
+
+.color1 {
+   background-color: #7f9bc5;
+}
+
+.color2 {
+    color: #98b4d4
+}
+
+.color3 {
+    color: #b1cde2
+}
+
+.color4 {
+    color: #cae6f1
+}
+
+.color5 {
+    color: #e3ffff
+}
+
+/*fonts*/
+
+.titleColor {
+    color: #0D3773;
+}
+
+/* body */
+
+.pageButton{
+    font-size: 32px;
+    border-radius: 10px;
+    margin: 0px;
+}
+
+.h64{
+    height: 64px;
+    background-color: #D9D9D9;
+}
+
+.mainContainer{
+    padding: 64px 0px 0px 0px;
+}
+
+.homeBanner{
+    width: 440px;
+}
+
+.homeHook{
+    width: 440px;
+    padding: 0px 0px 0px 35px;
+    font-size: 24px;
+}
+
+.banner{
+    padding: 0px 0px 0px 0px;
+}
